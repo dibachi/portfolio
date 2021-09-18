@@ -10,11 +10,15 @@ My work experience, skills, and educational history are summarized on my [resume
 For example, to look at some of my major projects in undergrad, you can check out my work with the [UCSB Hyperloop team](https://github.com/dibachi/portfolio/tree/main/UCSB%20Hyperloop) and [UCSB Rocket Propulsion Laboratory](https://github.com/dibachi/portfolio/tree/main/Rocket%20Propulsion%20Laboratory). Some of my smaller UCSB projects and reports have documentation [here](https://github.com/dibachi/portfolio/tree/main/UCSB%20Projects%20and%20Reports).
 
 You can find more of my internship and work experience here:
+
 (let's try to embed a logo here)
 [Simpl Global](https://github.com/dibachi/portfolio/tree/main/LZ%20Dark%20Matter%20Collaboration)
+
 (let's try to embed a logo here)
 [Intuitive Surgical](https://github.com/dibachi/portfolio/tree/main/LZ%20Dark%20Matter%20Collaboration)
+
 (let's try to embed a logo here)
 [Bruker Nano Surfaces](https://github.com/dibachi/portfolio/tree/main/LZ%20Dark%20Matter%20Collaboration)
+
 (let's try to embed a logo here)
 [UCSB Department of Physics](https://github.com/dibachi/portfolio/tree/main/LZ%20Dark%20Matter%20Collaboration) 
