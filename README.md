@@ -1,24 +1,9 @@
 # Welcome to my portfolio!
- 
-🚧UNDER CONSTRUCTION🚧
 
-I'm glad you took the time to check this out. I used to have a Wix site, but I found effectively illustrating my work on there to be troublesome. I'm hoping this repository proves
-more elegant and more true to my organizational style. If you're reading this, feedback is appreciated!
+This repo serves as a portfolio of my side projects, student teams, and work I've done in undergrad and grad school. Organizing my porfolio on GitHub is a new thing for me, so feedback is appreciated!
 
-My work experience, skills, and educational history are summarized on my [resume](https://github.com/dibachi/portfolio/blob/main/Jack%20Dibachi%20Resume.pdf). I speak at length about each of my projects, jobs, and internships in their respective folders within this repository.
+My [resume](https://github.com/dibachi/portfolio/blob/main/Jack%20Dibachi%20Resume.pdf) summarizes my skills and the most pertinent projects I've worked on, but I speak at length about all of my past work in their respective folders here.
 
-For example, to look at some of my major projects in undergrad, you can check out my work with the [UCSB Hyperloop team](https://github.com/dibachi/portfolio/tree/main/UCSB%20Hyperloop) and [UCSB Rocket Propulsion Laboratory](https://github.com/dibachi/portfolio/tree/main/Rocket%20Propulsion%20Laboratory). Some of my smaller UCSB projects and reports have documentation [here](https://github.com/dibachi/portfolio/tree/main/UCSB%20Projects%20and%20Reports).
+For example, to look at some of my major projects in undergrad, you can check out my work with the [UCSB Hyperloop team](https://github.com/dibachi/portfolio/tree/main/UCSB%20Hyperloop), [UCSB Rocket Propulsion Laboratory](https://github.com/dibachi/portfolio/tree/main/Rocket%20Propulsion%20Laboratory), and my time as a Research Assistant with the [UCSB Department of Physics](https://github.com/dibachi/portfolio/tree/main/LZ%20Dark%20Matter%20Collaboration). Some of my smaller UCSB projects and reports have documentation [here](https://github.com/dibachi/portfolio/tree/main/UCSB%20Projects%20and%20Reports).
 
-You can find more of my internship and work experience here:
-
-(let's try to embed a logo here)
-[Simpl Global](https://github.com/dibachi/portfolio/tree/main/LZ%20Dark%20Matter%20Collaboration)
-
-(let's try to embed a logo here)
-[Intuitive Surgical](https://github.com/dibachi/portfolio/tree/main/LZ%20Dark%20Matter%20Collaboration)
-
-(let's try to embed a logo here)
-[Bruker Nano Surfaces](https://github.com/dibachi/portfolio/tree/main/LZ%20Dark%20Matter%20Collaboration)
-
-(let's try to embed a logo here)
-[UCSB Department of Physics](https://github.com/dibachi/portfolio/tree/main/LZ%20Dark%20Matter%20Collaboration) 
+As a first year Master's student, my work here at Stanford is just getting started, but there are big things to come! You can check out a few of the projects I'm working on as part of my coursework here, with final updates to come in the next six weeks.
