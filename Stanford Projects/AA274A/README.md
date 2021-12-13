@@ -1,0 +1,13 @@
+AA274A: Principles of Robot Autonomy I
+This class, which I took in my first Fall Quarter at Stanford, is a sort of systems overview of the see-think-act cycle which enables robots to perform tasks autonomously. Throughout the quarter, we experiment with the TurtleBot platform, which has two-wheeled differential drive, a camera, a planar LIDAR sensor, and a NVIDIA Jeston Pi equipped with ROS (Robot Operating System). (INSERT TURTLEBOT PICTURE). Homework assignments, focused on components of the see-think-act cycle, are designed to eventually give the robots the tools they need to have autonomy. These assignments include pathfinding algorithms, SLAM, camera calibration, and others.
+
+The class final project, which was done in groups of four, is to grant a TurtleBot full autonomy in a simulated urban environment. The particulars of what kind of environment are up to each group, but the general task is as follows:
+1. Create a flat, urban environment with closed boundaries and at least three different types of objects the robot can detect.
+2. Devise an exploration technique for the robot to drive around the map, developing an understanding of where walls and notable objects are and storing the map estimate in memory. Notable objects should be detected properly, and the object location should be noted for the second stage.
+3. After obtaining a full representation of the map in memory, the robot should be able to return to the locations of a list of detected objects specified by a human.
+
+Our theme for the project was that of an autonomous tour guide showing people around an old town district. 
+(INSERT MAP PICTURE IN GAZEBO, HIGHLIGHTING LOCATIONS)
+The robot would become familiar with the district by navigating to waypoints (RED) I determined, observing the locations of the fire station, tennis courts, boat museum, and central park along the way. When the robot finishes its exploration, it can take tourists to specific stops by request in any order, able to stop at stop signs along the way. At each stop, the robot would stay for five seconds before continuing to the next stop. At the end of the tour, the robot returns to the starting point. 
+
+To monitor the robots map estimate, trajectory planning, and other technical details, I established a "command center" in RViz. The waypoints appear in red, and the follow-up locations corresponding to each tour stop are in green. As the robot explores the map, it changes its estimate from unexplored territory (dark grey) into either free space (light grey) or impassable obstacles (black). The localization and mapping algorithm continues to update parts of the map that have been visited, so faulty estimates of wall locations can be refined to more closely represent the actual map.
